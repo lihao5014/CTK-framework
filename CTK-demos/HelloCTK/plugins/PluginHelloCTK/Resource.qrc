@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/PluginHelloCTK/META-INF">
+        <file>MANIFEST.MF</file>
+    </qresource>
+</RCC>

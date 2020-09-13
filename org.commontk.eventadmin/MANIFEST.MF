@@ -1,0 +1,8 @@
+﻿Plugin-SymbolicName: org.commontk.eventadmin
+Plugin-ActivationPolicy: eager
+Plugin-Category: Demos
+Plugin-ContactAddress: https://github.com/Waleon
+Plugin-Description: event administer plugin
+Plugin-Name: org_commontk_eventadmin
+Plugin-Vendor: Waleon
+Plugin-Version: 1.0.0
