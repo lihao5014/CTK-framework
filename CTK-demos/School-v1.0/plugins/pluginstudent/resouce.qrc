@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/pluginstudent/META-INF">
+        <file>MANIFEST.MF</file>
+    </qresource>
+</RCC>

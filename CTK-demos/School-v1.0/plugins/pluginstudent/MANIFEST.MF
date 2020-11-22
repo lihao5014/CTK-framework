@@ -1,0 +1,8 @@
+Plugin-SymbolicName: pluginstudent
+Plugin-ActivationPolicy: eager
+Plugin-Category: Demos
+Plugin-ContactAddress: https://github.com/18200399814/CTK-framework.git
+Plugin-Description: A student plugin
+Plugin-Name: pluginstudent
+Plugin-Vendor: lihao
+Plugin-Version: 1.0.0

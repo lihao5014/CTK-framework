@@ -1,0 +1,8 @@
+Plugin-SymbolicName: pluginteacher
+Plugin-ActivationPolicy: eager
+Plugin-Category: Demos
+Plugin-ContactAddress: https://github.com/18200399814/CTK-framework.git
+Plugin-Description: A teacher plugin
+Plugin-Name: pluginteacher
+Plugin-Vendor: lihao
+Plugin-Version: 1.0.0
